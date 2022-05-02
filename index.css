@@ -1,0 +1,33 @@
+.about-me {
+  display: flex;
+  line-height: 30px;
+  border: 40px solid #9b59b6;
+  border-radius: 10px;
+  width: 30vw;
+  height: 660px;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin: 10vh auto;
+}
+
+.my-rudy {
+  display: flex;
+  flex-direction: column;
+}
+
+#rudy {
+  width: 30vw;
+}
+
+.btn {
+  height: 10px;
+}
+
+#home-btn, #next-btn {
+  cursor: pointer;
+  color: white;
+  background-color: #8e44ad;
+  border: 0;
+  border-radius: 3px;
+}
