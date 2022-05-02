@@ -10,6 +10,7 @@
   text-align: center;
   justify-content: center;
   margin: 10vh auto;
+  padding: 10px 0 0 0;
 }
 
 #album {
@@ -26,10 +27,16 @@
 
 #home-btn, #next-btn {
   position: relative;
-  top: 80px;
+  top: 97px;
   cursor: pointer;
   color: white;
   background-color: #8e44ad;
   border: 0;
   border-radius: 3px;
+}
+
+#indicator {
+  color: white;
+  position: relative;
+  top: 125px;
 }

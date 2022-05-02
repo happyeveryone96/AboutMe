@@ -10,6 +10,7 @@
   text-align: center;
   justify-content: center;
   margin: 10vh auto;
+  padding: 10px 0 0 0;
 }
 
 img {
@@ -21,10 +22,20 @@ img {
   width: 30vw;
 }
 
+.btn {
+  height: 30px;
+}
+
 #home-btn, #next-btn {
   cursor: pointer;
   color: white;
   background-color: #8e44ad;
   border: 0;
   border-radius: 3px;
+}
+
+#indicator {
+  position: relative;
+  top: 6px;
+  color: white;
 }

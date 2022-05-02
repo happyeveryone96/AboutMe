@@ -10,6 +10,7 @@
   text-align: center;
   justify-content: center;
   margin: 10vh auto;
+  padding: 10px 0 0 0;
 }
 
 #pizza {
@@ -17,15 +18,21 @@
 }
 
 .btn {
-  height: 10px;
+  height: 25px;
 }
 
 #home-btn, #next-btn {
   position: relative;
-  top: 160px;
+  top: 185px;
   cursor: pointer;
   color: white;
   background-color: #8e44ad;
   border: 0;
   border-radius: 3px;
+}
+
+#indicator {
+  position: relative;
+  color: white;
+  top: 195px;
 }
