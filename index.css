@@ -13,15 +13,11 @@
   padding: 10px 0 0 0;
 }
 
-.my-rudy {
-  display: flex;
-  flex-direction: column;
-}
 
 #rudy {
   width: 30vw;
   min-width: 300px;
-  height: 50vh;
+  height: 490px;
 }
 
 .btn {
@@ -39,6 +35,6 @@
 
 #indicator {
   position: relative;
-  top: 30px;
+  top: 10px;
   color: white;
 }
