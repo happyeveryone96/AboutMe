@@ -31,7 +31,7 @@
   top: 20px;
 }
 
-#home-btn, #next-btn {
+#next-btn {
   cursor: pointer;
   font-size: 18px;
   position: relative;
